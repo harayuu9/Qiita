@@ -1,0 +1,1 @@
+![Qiita Sync](https://github.com/harayuu9/Qiita/actions/workflows/qiita_sync_check.yml/badge.svg)
